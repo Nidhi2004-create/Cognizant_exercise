@@ -1,0 +1,14 @@
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\bin\Debug\net10.0\Exercise7_FinancialForecasting.exe
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\bin\Debug\net10.0\Exercise7_FinancialForecasting.deps.json
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\bin\Debug\net10.0\Exercise7_FinancialForecasting.runtimeconfig.json
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\bin\Debug\net10.0\Exercise7_FinancialForecasting.dll
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\bin\Debug\net10.0\Exercise7_FinancialForecasting.pdb
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.AssemblyInfoInputs.cache
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.AssemblyInfo.cs
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.csproj.CoreCompileInputs.cache
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.dll
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\obj\Debug\net10.0\refint\Exercise7_FinancialForecasting.dll
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.pdb
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\obj\Debug\net10.0\Exercise7_FinancialForecasting.genruntimeconfig.cache
+D:\Digital DotNetFSE\DSA\Exercise7_FinancialForecasting\obj\Debug\net10.0\ref\Exercise7_FinancialForecasting.dll
