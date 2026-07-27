@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 20px;
+  text-align: center;
+}
+
+.st2, .v1, .mystyle1 {
+  flex: 1;
+  padding: 0 20px;
+}
+
+.v1 {
+  border-left: 4px solid green;
+  border-right: 4px solid green;
+}
