@@ -1,0 +1,32 @@
+using System;
+
+public class Logger
+{
+    private static Logger instance;
+    private static readonly object lockObj = new object();
+
+    private Logger()
+    {
+        Console.WriteLine("Logger Initialized");
+    }
+
+    public static Logger GetInstance()
+    {
+        if (instance == null)
+        {
+            lock (lockObj)
+            {
+                if (instance == null)
+                {
+                    instance = new Logger();
+                }
+            }
+        }
+        return instance;
+    }
+
+    public void Log(string msg)
+    {
+        Console.WriteLine("LOG: " + msg);
+    }
+}
